@@ -17,7 +17,7 @@
 <b>R</b>: I successfully earned the certificate, which not only boosted my confidence but helped me identify a stronger interest in AI-related fields. It also reinforced my passion for programming and has motivated me to continue upskilling in areas like data science, machine learning, and AI-driven software development.<br>
 
 <h2>Personality assestment</h2>
-![Screenshot 2025-05-22 194312](https://github.com/user-attachments/assets/67504242-a4da-4f44-a429-abf5611ea269)
+![Personality assestment](https://github.com/user-attachments/assets/67504242-a4da-4f44-a429-abf5611ea269)
 
 <h3>Reflection</h3>
 <b>S</b>: During the work readiness program, I was encouraged to explore my personal traits to understand how they influence my career path and working style. To do this, I completed the 16Personalities assessment.<br>
