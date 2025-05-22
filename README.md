@@ -12,7 +12,6 @@
 
 <h3>Reflection</h3>
 <b>S</b>: As part of enhancing my career readiness and technical foundation, I enrolled in the ALX AI Career Essentials program — a course designed to build essential skills in AI and data literacy for the modern workplace.<br>
-<hr>
 <b>T</b>: My task was to complete the program and absorb key skills in artificial intelligence, critical thinking, collaboration, and adaptability — all while reflecting on how these aligned with my personal career goals in the tech industry.<br>
 <b>A</b>: I actively participated in online modules, completed assignments, and collaborated with peers in the virtual learning environment. I took detailed notes on topics such as machine learning, ethical AI, and real-world AI applications, and how these relate to software development and problem-solving.<br>
 <b>R</b>: I successfully earned the certificate, which not only boosted my confidence but helped me identify a stronger interest in AI-related fields. It also reinforced my passion for programming and has motivated me to continue upskilling in areas like data science, machine learning, and AI-driven software development.<br>
