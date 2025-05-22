@@ -25,7 +25,7 @@
 <b>A</b>: I reviewed my strengths and weaknesses, including traits like strategic thinking, independence, high standards, and logical problem-solving. These traits reflect my approach to software development and technical challenges. I also considered the areas for growth, such as emotional expression and flexibility in team settings.<br>
 <b>R</b>: The assessment confirmed my passion for structured thinking and innovation. It also helped me identify how I can better contribute to group projects by balancing my analytical nature with active collaboration. This insight will guide how I engage in future roles, especially in leadership, backend development, or AI-related fields where strategic planning is key.<br>
 
-<h2>Skills and interests</h2>
+<h2>Creating a CV</h2>
 [Sifiso Duba's CV.pdf](https://github.com/user-attachments/files/20398072/Sifiso.Duba.s.CV.pdf)
 
 <h3>Reflection</h3>
