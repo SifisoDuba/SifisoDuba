@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/8d7ad10e-19aa-4f20-bb11-5f5932dcf2aa
 <b>S</b>: After creating a draft of my CV for the work readiness portfolio, I wanted to ensure it was clear, professional, and aligned with industry expectations.<br>
 <b>T</b>: I needed to finalize and submit a polished CV, and I aimed to get constructive feedback before doing so.<br>
 <b>A</b>: I sent my CV to a group chat with trusted friends who are also in the tech and academic space. They provided valuable feedback on formatting, clarity, and content. Based on their suggestions, I made improvements to better highlight my achievements and technical skills.<br>
-<b>SR</b>: The final version of my CV was clearer, more concise, and better structured for job applications. Submitting a refined version gave me confidence in presenting myself to potential employers, and I fulfilled the assessment requirement successfully.<br>
+<b>R</b>: The final version of my CV was clearer, more concise, and better structured for job applications. Submitting a refined version gave me confidence in presenting myself to potential employers, and I fulfilled the assessment requirement successfully.<br>
 
 <!--
 **SifisoDuba/SifisoDuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
