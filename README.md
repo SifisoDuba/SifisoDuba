@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sifiso Duba! <br/><a href="https://github.com/SifisoDuba">Software engineer</a> 
 <h2>Career counseling evidence</h2>
-![Consultation at DVT](https://github.com/user-attachments/assets/5e82047f-2ddb-481d-9bf2-067bf237342d)
+Consultation at DVT https://github.com/user-attachments/assets/5e82047f-2ddb-481d-9bf2-067bf237342d
 
 <h3>Reflection</h3>
 <b></b>S</b>: I was required to attend a career counselling session as part of my Work Readiness training.<br>  
@@ -8,7 +8,8 @@
 <b>A</b>: I participated actively by discussing my interests, career goals, and skill set with the counsellor. I also took notes and asked for guidance on job search strategies and CV improvement.<br><b>R</b>: I gained a clearer understanding of my ideal career direction and practical advice on improving my employability. This session helped me identify key areas of focus for my professional development.<br>
 
 <h2>Skills and interests</h2>
-![66-alx-aice-ai-career-essentials-certificate-sifiso-duba](https://github.com/user-attachments/assets/861668ff-22f3-4f1e-8a3e-4108912dc9da)
+66-alx-aice-ai-career-essentials-certificate-sifiso-duba 
+https://github.com/user-attachments/assets/861668ff-22f3-4f1e-8a3e-4108912dc9da
 
 <h3>Reflection</h3>
 <b>S</b>: As part of enhancing my career readiness and technical foundation, I enrolled in the ALX AI Career Essentials program — a course designed to build essential skills in AI and data literacy for the modern workplace.<br>
@@ -26,7 +27,8 @@
 <b>R</b>: The assessment confirmed my passion for structured thinking and innovation. It also helped me identify how I can better contribute to group projects by balancing my analytical nature with active collaboration. This insight will guide how I engage in future roles, especially in leadership, backend development, or AI-related fields where strategic planning is key.<br>
 
 <h2>Creating a CV</h2>
-[Sifiso Duba's CV.pdf](https://github.com/user-attachments/files/20398072/Sifiso.Duba.s.CV.pdf)
+Sifiso Duba's CV.pdf 
+https://github.com/user-attachments/files/20398072/Sifiso.Duba.s.CV.pdf
 
 <h3>Reflection</h3>
 <b>S</b>: As part of the work readiness program, I was required to develop a professional CV to showcase my skills, qualifications, and experience to potential employers.<br>
@@ -35,7 +37,8 @@
 <b>R</b>: The final CV presents a clear overview of my academic journey, technical expertise, certifications, and soft skills. It is now suitable for internship or graduate roles in software development, giving me confidence to apply for professional opportunities.<br>
 
 <h2>CV submission</h2>
-![Feedback](https://github.com/user-attachments/assets/8d7ad10e-19aa-4f20-bb11-5f5932dcf2aa)
+Feedback 
+https://github.com/user-attachments/assets/8d7ad10e-19aa-4f20-bb11-5f5932dcf2aa
 
 <h3>Reflection</h3>
 <b>S</b>: After creating a draft of my CV for the work readiness portfolio, I wanted to ensure it was clear, professional, and aligned with industry expectations.<br>
