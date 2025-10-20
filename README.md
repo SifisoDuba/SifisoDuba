@@ -12,7 +12,7 @@ Each section includes both **evidence** and a **reflection** using the **STAR te
 My CV: https://github.com/user-attachments/files/23002300/My.cvm.pdf
 
 
-<h3>Reflection (STAR Technique)</h3>
+<h3>Reflection</h3>
 <b>S:</b> During the Work Readiness Program, I was tasked with creating and refining my professional CV, improving how I present myself in written communication to potential employers.<br>  
 <b>T:</b> I needed to ensure my communication — both in writing and feedback responses — reflected professionalism, clarity, and alignment with industry standards.<br>  
 <b>A:</b> I created a polished CV tailored for the tech industry, sought feedback from peers, and practiced formal communication such as emails and LinkedIn outreach to build my confidence in business interactions.<br>  
