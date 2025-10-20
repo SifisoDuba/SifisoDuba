@@ -14,9 +14,9 @@ My CV: https://github.com/user-attachments/files/23002300/My.cvm.pdf
 
 <h3>Reflection</h3>
 <b>S:</b> During the Work Readiness Program, I was tasked with creating and refining my professional CV, improving how I present myself in written communication to potential employers.<br>  
-<b>T:</b> I needed to ensure my communication — both in writing and feedback responses — reflected professionalism, clarity, and alignment with industry standards.<br>  
+<b>T:</b> I needed to ensure my communication both in writing and feedback responses — reflected professionalism, clarity, and alignment with industry standards.<br>  
 <b>A:</b> I created a polished CV tailored for the tech industry, sought feedback from peers, and practiced formal communication such as emails and LinkedIn outreach to build my confidence in business interactions.<br>  
-<b>R:</b> I strengthened my professional writing skills, developed confidence in communicating with employers, and learned how to structure information effectively — an essential skill for both interviews and workplace communication.<br>
+<b>R:</b> I strengthened my professional writing skills, developed confidence in communicating with employers, and learned how to structure information effectively an essential skill for both interviews and workplace communication.<br>
 
 ---
 
@@ -37,8 +37,8 @@ Consultation at DVT: <img width="910" height="431" alt="Screenshot 2025-10-20 15
 
 
 <h3>Reflection</h3>
-<b>S:</b> As part of enhancing my career readiness and technical foundation, I enrolled in the ALX AI Career Essentials program — a course designed to build essential skills in AI and data literacy for the modern workplace.<br>  
-<b>T:</b> My task was to complete the program and absorb key skills in artificial intelligence, critical thinking, collaboration, and adaptability — all while reflecting on how these aligned with my personal career goals in the tech industry.<br>  
+<b>S:</b> As part of enhancing my career readiness and technical foundation, I enrolled in the ALX AI Career Essentials program a course designed to build essential skills in AI and data literacy for the modern workplace.<br>  
+<b>T:</b> My task was to complete the program and absorb key skills in artificial intelligence, critical thinking, collaboration, and adaptability all while reflecting on how these aligned with my personal career goals in the tech industry.<br>  
 <b>A:</b> I actively participated in online modules, completed assignments, and collaborated with peers in the virtual learning environment. I took detailed notes on topics such as machine learning, ethical AI, and real-world AI applications, and how these relate to software development and problem-solving.<br>  
 <b>R:</b> I successfully earned the certificate, which not only boosted my confidence but helped me identify a stronger interest in AI-related fields. It also reinforced my passion for programming and has motivated me to continue upskilling in areas like data science, machine learning, and AI-driven software development.<br>
 
@@ -50,7 +50,7 @@ Personality Assessment: <img width="922" height="738" alt="446697679-67504242-a4
 
 <h3>Reflection</h3>
 <b>S:</b> During the work readiness program, I was encouraged to explore my personal traits to understand how they influence my career path and working style. To do this, I completed the 16Personalities assessment.<br>  
-<b>T:</b> My task was to analyze the results and reflect on how my personality type — INTJ-A, also known as "The Architect" — affects the way I solve problems, communicate, and work in team or leadership roles.<br>  
+<b>T:</b> My task was to analyze the results and reflect on how my personality type — INTJ-A, also known as "The Architect" affects the way I solve problems, communicate, and work in team or leadership roles.<br>  
 <b>A:</b> I reviewed my strengths and weaknesses, including traits like strategic thinking, independence, high standards, and logical problem-solving. These traits reflect my approach to software development and technical challenges. I also considered the areas for growth, such as emotional expression and flexibility in team settings.<br>  
 <b>R:</b> The assessment confirmed my passion for structured thinking and innovation. It also helped me identify how I can better contribute to group projects by balancing my analytical nature with active collaboration. This insight will guide how I engage in future roles, especially in leadership, backend development, or AI-related fields where strategic planning is key.<br>
 
